@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="box1_bg">#D7B3DF</color>
+    <color name="box2_bg">#9C27B0</color>
+    <color name="box3_bg">#9C27B0</color>
+    <color name="box4_bg">#D7B3DF</color>
+
+    <color name="card_text">#000000</color>
+</resources>
